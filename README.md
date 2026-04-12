@@ -1,6 +1,6 @@
 # 🖱️ Mouse Event Detection — C++ SDL2 Project
 
-> 🧠 *A C++ command-line tool that tracks mouse events like movement, clicks, and more using SDL2.*  
+> 🧠 *A C++ command-line tool that tracks mouse events like movement, clicks, and more using SDL2*  
 
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-blue?style=for-the-badge)
